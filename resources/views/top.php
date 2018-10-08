@@ -1,6 +1,6 @@
 <?php
 use App\Models\Common;
-//Common::h('a');
+Common::h('a');
 ?>
 <!DOCTYPE html>
 <html lang="ja">
